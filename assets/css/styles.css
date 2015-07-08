@@ -1,0 +1,65 @@
+header {
+    background-attachment: fixed;
+    background-image: url("../images/Gnar_0.jpg");
+    background-repeat: no-repeat;
+    background-position: 0 0px;
+    background-size: cover;
+    height: 688px;
+}
+
+.navbar-brand,
+.navbar-brand:hover,
+.navbar-brand:focus {
+    color: darkblue;
+}
+
+.nav li a {
+    color: darkblue
+}
+
+.nav li a:hover,
+.nav li a:focus {
+    background-color: transparent;
+    color: green;
+    
+}
+
+.nav li a {
+    color: purple
+}
+
+.nav li a:hover,
+.nav li a:focus {
+    background-color: transparent;
+    color: #009100;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: #ffa700;
+}
+
+.quotes h2
+quotes-list article {
+    text align: center;
+}
+
+.quote-list article .quote {
+     color: #747474;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.quote-list article .bio .image,
+.quote-list article .bio .author {
+    float: left;
+}
+
+.quote-list article .bio .author {
+    padding-left: 10px;
+}
+
+.quote-list article .bio .image img {
+    border-radius: 50%;
+}
+
+    
